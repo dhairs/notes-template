@@ -5,7 +5,6 @@ import remarkRehype from "remark-rehype";
 import rehypeSanitize from "rehype-sanitize";
 import rehypeRewrite from "rehype-rewrite";
 import rehypeStringify from "rehype-stringify";
-// import rehypeMathjax from "rehype-mathjax";
 import remarkMath from "remark-math";
 import {
   getLinksMapping,
